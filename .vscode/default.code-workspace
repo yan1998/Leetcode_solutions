@@ -6,7 +6,7 @@
     ],
     "settings": {
         "leetcode.showDescription": "In File Comment",
-        "leetcode.workspaceFolder": "~\\dev\\leetcode",
+        "leetcode.workspaceFolder": "<PATH_TO_LEETCODE_SOLUTION_FOLDER>",
         "leetcode.filePath": {
             "default": {
                 // relative folder path
