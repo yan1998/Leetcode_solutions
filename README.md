@@ -1,5 +1,5 @@
 <h1 align="center">
-  Leetcode solutions by YanDev Nikiforovall 👨‍💻
+  Leetcode solutions by YanDev 👨‍💻
 </h1>
 
 # Leetcode-playground
